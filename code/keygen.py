@@ -6,6 +6,9 @@ from cryptography.exceptions import InvalidSignature
 """ This file is for encryption and loading keys to a file. It makes exchanging keys easier. Will probably be added later"""
 
 
+# I plan to implement encryption, the code is all here but i just need to acutally implement it
+
+
 def generate_key_pair():
     key_size = 2048
 
