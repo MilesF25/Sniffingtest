@@ -3,7 +3,7 @@ import socket
 import threading
 import python.scapytest.Sniffingtest.code.fun as fun
 
-# need to load keys from file, set up connection to server, then have enc and decryption methods
+# (Future task) need to load keys from file, set up connection to server, then have enc and decryption methods 
 
 host = "127.0.0.1"
 port = 12345
